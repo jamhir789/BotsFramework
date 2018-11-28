@@ -1,0 +1,42 @@
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Bot Application.dll.config
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Bot Application.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Bot Application.pdb
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Autofac.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Chronic.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.Bot.Builder.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.Bot.Connector.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Newtonsoft.Json.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\System.Net.Http.Formatting.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\System.Web.Http.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\System.Web.Http.WebHost.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Autofac.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.Bot.Builder.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.Bot.Connector.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\Newtonsoft.Json.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\System.Net.Http.Formatting.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\System.Web.Http.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\System.Web.Http.WebHost.xml
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\obj\Debug\BotManagerAcount.csprojAssemblyReference.cache
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\obj\Debug\BotManagerAcount.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\obj\Debug\BotManagerAcount.csproj.CopyComplete
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\obj\Debug\Bot Application.dll
+C:\Users\erick.medina\source\repos\BotManagerAcount\BotManagerAcount\obj\Debug\Bot Application.pdb
